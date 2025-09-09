@@ -1,1 +1,8 @@
-
+numpy
+scipy
+scikit-learn
+torch
+torchvision
+matplotlib
+seaborn
+notebook
