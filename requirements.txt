@@ -1,8 +1,9 @@
 numpy
-scipy
-scikit-learn
-torch
-torchvision
+pandas
 matplotlib
-seaborn
-notebook
+scikit-learn
+tensorflow  # For CNN/LSTM (or torch if you prefer PyTorch)
+spectral  # For hyperspectral data handling (pip install spectral)
+rasterio  # For reading geospatial data if needed
+jupyter  # For notebooks
+streamlit  # For a quick dashboard (simple web app)
